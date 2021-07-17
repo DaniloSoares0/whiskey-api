@@ -6,7 +6,7 @@ Durante o exercício, forma abordados os seguintes tópicos:
 * Foco nos testes unitários: mostrar o porque é importante o desenvolvimento destes tipos de testes como parte do ciclo de desenvolvimento de software.
 * Principais frameworks para testes unitários em Java: JUnit, Mockito e Hamcrest. 
 * Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de whiskey.
-* TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de cervejas no estoque.
+* TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de whiskey no estoque.
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
