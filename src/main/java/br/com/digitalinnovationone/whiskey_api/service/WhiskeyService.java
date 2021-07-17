@@ -13,7 +13,6 @@ import br.com.digitalinnovationone.whiskey_api.exception.WhiskeyNotFoundExceptio
 import br.com.digitalinnovationone.whiskey_api.exception.WhiskeyStockExceededException;
 import br.com.digitalinnovationone.whiskey_api.mapper.WhiskeyMapper;
 import br.com.digitalinnovationone.whiskey_api.repository.WhiskeyRepository;
-import lombok.AllArgsConstructor;
 
 @Service
 public class WhiskeyService {
